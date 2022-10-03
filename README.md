@@ -11,3 +11,4 @@
 
 # Restaurant listing
 <p>🌮 Here you can see all the details brought by the app. Together with the Google Maps API, as much information as possible is provided for the customer. Reviews, location details, restaurant menu, map, dynamic QR menu for the restaurant as well as how to pay by credit card for the reservation.</p>
+<img src="https://user-images.githubusercontent.com/60348906/193585976-7d91eec9-82e2-4066-8d3d-cb3d23f0a65d.png" />
