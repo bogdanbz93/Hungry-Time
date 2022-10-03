@@ -29,3 +29,6 @@
 
 # Other functionalities
 <p>Generate QR Code & download it for restaurant profile on Hungry Time (printable), mails as notification for customer and restaurant, edit restaurant, edit profile, delete account, searching restaurants, cashing out, payments details, COVID-19 tracker using API.</p>
+
+# Questions?
+ 📫 You can reach me on - **bogdan@novostudios.dev**, but, I'm on Gmail as well - **buzea.v.bogdan@gmail.com** - I'm open to collaborate.
