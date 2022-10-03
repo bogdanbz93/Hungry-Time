@@ -16,4 +16,6 @@
 <img src="https://user-images.githubusercontent.com/60348906/193589450-b0acc9dc-be6c-470e-824e-782699adb9ed.png" />
 
 # Payment system & restaurant owner
+<img src="https://img.shields.io/badge/ApplePay-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white" /><img src="https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white" />
+
 <p>Restaurant owner: to become a restaurant owner you need to complete the process offered by Stripe Connect, where we will verify the legal data of the owner, add the bank account, proof of payments by sending invoices paid up to 3 months ago, then we can list restaurants in the application.</p>
