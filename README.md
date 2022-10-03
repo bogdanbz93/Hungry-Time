@@ -26,3 +26,6 @@
 <img src="https://user-images.githubusercontent.com/60348906/193592608-afd1355d-4fe9-4ef3-a1fc-960c4bbda9c8.png" />
 <img src="https://user-images.githubusercontent.com/60348906/193593122-5b265bd8-e5c3-45ee-b658-b0f4d7d279f1.png" />
 <p>Once a customer has paid for the restaurant reservation, the owner receives the amount in the account (after Stripe and Hungry Time platform fees). The platform administrator can give the amount in the account at any time.</p>
+
+# Other functionalities
+<p>Generate QR Code & download it for restaurant profile on Hungry Time (printable), mails as notification for customer and restaurant, edit restaurant, edit profile, delete account, searching restaurants, cashing out, payments details, COVID-19 tracker using API.</p>
