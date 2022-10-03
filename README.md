@@ -1,4 +1,4 @@
-# Hungry Time
+# Hungry Time (romanian project)
 <h3 align="left">Technologies used - Mongo.db, Express.js, React.js & Node.js</h3>
 <p>🍔 List your restaurant in a few simple steps. No one wants to search through several pages of your restaurant's information. We all want to save time. Well, make a summary of your restaurant, publish contact details, pictures and menu that your customers can scan from each table. It will be automatically generated for you.
 </p>
