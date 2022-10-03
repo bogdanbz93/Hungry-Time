@@ -21,4 +21,6 @@
 <p>Restaurant owner: to become a restaurant owner you need to complete the process offered by Stripe Connect, where we will verify the legal data of the owner, add the bank account, proof of payments by sending invoices paid up to 3 months ago, then we can list restaurants in the application.</p>
 
 <img src="https://user-images.githubusercontent.com/60348906/193591364-852beda9-8edf-44ad-8823-b9a43c1ee0a9.png"/>
-(platformă = platform, cumpărător sau client = restaurant customer, restaurant sau proprietar = restaurant owner)
+<p>(platformă = platform, cumpărător sau client = restaurant customer, restaurant sau proprietar = restaurant owner)</p>
+
+<img src="https://user-images.githubusercontent.com/60348906/193592608-afd1355d-4fe9-4ef3-a1fc-960c4bbda9c8.png" />
