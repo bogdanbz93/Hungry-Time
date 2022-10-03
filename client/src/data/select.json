@@ -1,0 +1,11 @@
+{
+  "locationlist": ["Selectează", "constanta", "braila", "bucuresti", "timisoara", "cluj"],
+  "statuslist": ["Selectează", "fastfood", "chinezesc", "italienesc", "turcesc", "romanesc", "diversificat"],
+  "pricerangelist": ["Any Range", "$60k - $80k", "$80k - $100k", "$100k - $120k", "$120k - $140k", "$140k - $160k", "$160k - $180k", "$180k - $200k"],
+  "bedslist": ["Any amount", "1", "2", "3", "4", "5+"],
+  "bathroomslist": ["Any amount", "1", "2", "3", "4", "5+"],
+  "typelist": ["Any Type", "House", "Apartment", "Condo", "Townhome", "Villa", "Duplex"],
+  "diameterlist": ["Any Range", "Within 2 miles", "Within 4 miles", "Within 6 miles", "Within 8 miles", "Within 10 miles", "Within 22 miles"],
+  "floorlist": ["Any floor", "1st", "2nd", "3rd", "4th", "5th"],
+  "sortbylist": ["Any", "Top Selling", "Most Popular", "Price: High - Low", "Price: Low - High", "Number of baths", "Number of beds"]
+}

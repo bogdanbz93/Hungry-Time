@@ -1,0 +1,79 @@
+{
+  "name": "hungrytime",
+  "version": "0.1.0",
+  "private": true,
+  "main": "lib/index",
+  "types": "lib/index",
+  "dependencies": {
+    "@stripe/stripe-js": "^1.15.0",
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.5.0",
+    "animate.css": "^4.1.1",
+    "antd": "^4.16.3",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.3",
+    "bootstrap-icons": "^1.5.0",
+    "classnames": "^2.2.6",
+    "jquery": "^3.5.1",
+    "leaflet": "^1.7.1",
+    "leaflet.markercluster": "^1.4.1",
+    "magnific-popup": "^1.1.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "notiflix-react": "^1.4.0",
+    "qrcode.react": "^1.0.1",
+    "query-string": "^4.3.4",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-cookie-consent": "^6.2.4",
+    "react-date-picker": "^8.2.0",
+    "react-datepicker": "^4.1.1",
+    "react-dom": "^17.0.1",
+    "react-dropzone": "^11.2.4",
+    "react-google-login": "^5.2.2",
+    "react-gravatar": "^2.6.3",
+    "react-leaflet": "^3.0.2",
+    "react-live-clock": "^5.2.0",
+    "react-masonry-component": "^6.2.1",
+    "react-meta-tags": "^1.0.0",
+    "react-places-autocomplete": "^7.3.0",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-select2-wrapper": "^1.0.4-beta6",
+    "react-slick": "^0.27.13",
+    "react-time-picker": "^4.3.0",
+    "redux": "^4.1.0",
+    "redux-devtools-extension": "^2.13.9",
+    "slick-carousel": "^1.8.1",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.5.19"
+  }
+}

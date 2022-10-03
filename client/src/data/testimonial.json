@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Experiență nouă",
+    "comment": "A fost foarte ușor să aflu noi restaurante și detaliile acestora. Așadar, am o nouă rezervare în weekend.",
+    "author": "Raluca G.",
+    "post": "Client Hungry Time",
+    "authorimg": "assets/img/people/1.jpg",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "Ușor de folosit",
+    "comment": "Prețurile mari ale companiilor pentru meniuri digitale m-au împiedicat să dețin unul, însă acum, în sfârșit îl am, gratuit.",
+    "author": "Oana H.",
+    "post": "Proprietar de restaurant",
+    "authorimg": "assets/img/people/2.jpg",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "title": "Simplu și rapid",
+    "comment": "O nouă listare în plus a restaurantului meu mereu va aduce beneficii și clienți noi. Deja am 3 rezervări noi.",
+    "author": "Marius C.",
+    "post": "Proprietar de restaurant",
+    "authorimg": "assets/img/people/3.jpg",
+    "rating": 5
+  }
+]
