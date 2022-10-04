@@ -1,4 +1,4 @@
-# Hungry Time (romanian project)
+# Hungry Time (romanian project - done in 2021)
 
 How to start the project - both client & server
 ### `npm start`
